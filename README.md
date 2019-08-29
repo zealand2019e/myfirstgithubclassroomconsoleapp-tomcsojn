@@ -1,4 +1,15 @@
 # MyFirstGitHubClassRoomConsoleApp
+Simple console app used for test Github ClassRoom
+
+1) Clone this repo to your pc
+2) Add a new class "demo" too the  project
+3) Add a couple off properties to the class
+4) Add a constructor to the class
+4) commit og push the changes
+5) At GitHub see the changes you made
+
+
+
 Et lille console app til at teste Github ClassRoom
 
 1) Clone dette projekt til din pc
